@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\bin\Debug\net8.0\triangle.exe
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\bin\Debug\net8.0\triangle.deps.json
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\bin\Debug\net8.0\triangle.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\bin\Debug\net8.0\triangle.dll
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\bin\Debug\net8.0\triangle.pdb
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\obj\Debug\net8.0\triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\obj\Debug\net8.0\triangle.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\obj\Debug\net8.0\triangle.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\obj\Debug\net8.0\triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\obj\Debug\net8.0\triangle.sourcelink.json
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\obj\Debug\net8.0\triangle.dll
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\obj\Debug\net8.0\refint\triangle.dll
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\obj\Debug\net8.0\triangle.pdb
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\obj\Debug\net8.0\triangle.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\tasks\Tasks\triangle\obj\Debug\net8.0\ref\triangle.dll
